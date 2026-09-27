@@ -1,3 +1,4 @@
 # Team Project Outline
 2. Collaborator B Feature
 4. Collaborator B extra feature
+3. Collaborator A extra feature
